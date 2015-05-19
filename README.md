@@ -36,4 +36,6 @@ ve daha birçok bilgiyi öğrenebileceksiniz.
 * otto:1.3.7 // olay yakalyıcı olarak çalışır
 * mint:4.2 // https://mint.splunk.com üzerinden alacağınız key ile kullanıcılardan gelen exception ve crash'leri analiz edebilirsiniz.
 
+# Not
 
+Eğer faydalı olduğunu düşünüyorsanız yapılan çalışmalara github üzerinden ve google play üzerinden yıldız vererek destek verebilirsiniz. Destek veren tüm arkadaşlar kodları dilediğince kullanabilir. Bol Android'li günler! :) 
