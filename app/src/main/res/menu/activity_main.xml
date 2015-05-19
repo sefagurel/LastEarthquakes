@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:hmkcode="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/chart_main"
+        android:icon="@drawable/chart_icon"
+        android:orderInCategory="100"
+        android:title="Chart"
+        hmkcode:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_main"
+        android:icon="@drawable/iconsettings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        hmkcode:showAsAction="always"/>
+
+</menu>

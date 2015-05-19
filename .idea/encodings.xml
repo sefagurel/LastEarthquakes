@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/sefagurel/lastearthquakes/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/sefagurel/lastearthquakes/SettingsActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/sefagurel/lastearthquakes/adapters/ListviewAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/sefagurel/lastearthquakes/database/DatabaseHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/sefagurel/lastearthquakes/utils/App.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/sefagurel/lastearthquakes/utils/SaveResponseToDB.java" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1254" />
+  </component>
+</project>

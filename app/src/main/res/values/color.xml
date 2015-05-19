@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="my_color1">#3498db</color>
+    <color name="my_color2">#c0392b</color>
+    <color name="background">#000000</color>
+    <color name="tvback">#ffffff</color>
+    <color name="tvback2">#D4D4D4</color>
+    <color name="tvtext">#000000</color>
+    <!-- <color name="tvback">#700000</color> -->
+    <color name="statusbar">#3B4C7A</color>
+    <color name="default_color">#ffffffff</color>
+
+
+    <color name="COLOR_GREEN">#99CC00</color>
+    <color name="COLOR_YELLOW">#FFCC00</color>
+    <color name="COLOR_RED">#FF4444</color>
+
+
+</resources>

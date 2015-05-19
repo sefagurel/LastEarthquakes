@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Son Depremler</string>
+    <string name="title_activity">Son Depremler</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="EarthquakesDetect">Deprem Oldu!</string>
+    <string name="NoConnection">İnternet bağlantısı bulunamadı!</string>
+    <string name="PleaseWait">Lütfen bekleyiniz...</string>
+    <string name="DatasLoading">Veriler yükleniyor...</string>
+    <string name="MapCanNotBeDisplayed">Harita görüntülenemiyor.</string>
+
+
+    <string name="Location">Konum</string>
+    <string name="Magnitude">Şiddet</string>
+    <string name="Date">Tarih</string>
+    <string name="Depth">Derinlik</string>
+    <string name="Latitude">Enlem</string>
+    <string name="Longitude">Boylam</string>
+    <string name="ChartAxisX">Gün</string>
+    <string name="ChartAxisY">Şiddet</string>
+
+
+</resources>

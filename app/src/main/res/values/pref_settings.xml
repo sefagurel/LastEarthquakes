@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ############# -->
+
+    <string name="titleSettings">Settings</string>
+
+    <!-- ############ date_range ################## -->
+
+    <string name="listPref_DialogTitle_TimeInterval">Time Interval</string>
+    <string name="listPref_Summary_TimeInterval">Last 24 Hours</string>
+    <string name="listPref_Title_TimeInterval">Time Interval</string>
+    <string name="listPref_Key_TimeInterval">Key_TimeInterval</string>
+    <string name="listPref_DefaultValue_TimeInterval">0</string>
+
+    <string-array name="array_TimeInterval">
+        <item>Last 24 Hours</item>
+        <item>Last 7 Days</item>
+        <item>Last 30 Days</item>
+    </string-array>
+    <string-array name="array_TimeInterval_Values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <!-- ############# source_list ################# -->
+
+    <string name="listPref_DialogTitle_Source">Sources</string>
+    <string name="listPref_Summary_Source">All</string>
+    <string name="listPref_Title_Source">Sources</string>
+    <string name="listPref_Key_Source">Key_Source</string>
+    <string name="listPref_DefaultValue_Source">0</string>
+
+    <string-array name="array_Source">
+        <item>All</item>
+        <item>Kandilli Rasathanesi</item>
+        <item>Seismic Portal</item>
+        <item>U.S. Geological Survey</item>
+    </string-array>
+    <string-array name="array_Source_Values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <!-- ############### min_magnitude ############### -->
+
+    <string name="listPref_DialogTitle_Magnitude">Magnitude</string>
+    <string name="listPref_Summary_Magnitude">All</string>
+    <string name="listPref_Title_Magnitude">Magnitude</string>
+    <string name="listPref_Key_Magnitude">Key_Magnitude</string>
+    <string name="listPref_DefaultValue_Magnitude">0</string>
+
+    <string-array name="array_Magnitude">
+        <item>All</item>
+        <item>1+</item>
+        <item>2+</item>
+        <item>3+</item>
+        <item>4+</item>
+        <item>5+</item>
+        <item>6+</item>
+    </string-array>
+    <string-array name="array_Magnitude_Values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <!-- ############## map_type ################ -->
+
+    <string name="listPref_DialogTitle_MapType">Map Type</string>
+    <string name="listPref_Summary_MapType">Normal</string>
+    <string name="listPref_Title_MapType">Map Type</string>
+    <string name="listPref_Key_MapType">Key_MapType</string>
+    <string name="listPref_DefaultValue_MapType">0</string>
+
+    <string-array name="array_MapType">
+        <item>Normal</item>
+        <item>Satellite</item>
+        <item>Hybrid</item>
+        <item>Terrain</item>
+    </string-array>
+    <string-array name="array_MapType_Values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <!-- ############# update_period ################# -->
+
+    <string name="listPref_DialogTitle_UpdatePeriod">Update Period</string>
+    <string name="listPref_Summary_UpdatePeriod">2 Min</string>
+    <string name="listPref_Title_UpdatePeriod">Update Period</string>
+    <string name="listPref_Key_UpdatePeriod">Key_UpdatePeriod</string>
+    <string name="listPref_DefaultValue_UpdatePeriod">0</string>
+
+    <string-array name="array_UpdatePeriod">
+        <item>2 min</item>
+        <item>15 min</item>
+        <item>30 min</item>
+        <item>60 min</item>
+    </string-array>
+    <string-array name="array_UpdatePeriod_Values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <!-- ############# sorting ################# -->
+
+    <string name="listPref_DialogTitle_Sorting">Sorting</string>
+    <string name="listPref_Summary_Sorting">Descending Date</string>
+    <string name="listPref_Title_Sorting">Sorting</string>
+    <string name="listPref_Key_Sorting">Key_Sorting</string>
+    <string name="listPref_DefaultValue_Sorting">1</string>
+
+    <string-array name="array_Sorting">
+        <item>Ascending Date</item>
+        <item>Descending Date</item>
+        <item>Ascending Magnitude</item>
+        <item>Descending Magnitude</item>
+    </string-array>
+    <string-array name="array_Sorting_Values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <!-- ############################## -->
+
+    <string name="titleNotifications">Notifications</string>
+
+    <!-- Notifications -->
+    <string name="CheckBoxPref_Title_Notification">Notifications</string>
+    <string name="CheckBoxPref_Summary_Notifications">On</string>
+    <string name="CheckBoxPref_Key_Notifications">Key_Notifications</string>
+    <string name="CheckBoxPref_DefaultValue_Notifications">true</string>
+
+    <!-- Vibration -->
+    <string name="CheckBoxPref_Title_Vibration">Vibration</string>
+    <string name="CheckBoxPref_Summary_Vibration">On</string>
+    <string name="CheckBoxPref_Key_Vibration">Key_Vibration</string>
+    <string name="CheckBoxPref_DefaultValue_Vibration">true</string>
+
+    <!-- Sound -->
+    <string name="CheckBoxPref_Title_Sound">Sound</string>
+    <string name="CheckBoxPref_Summary_Sound">On</string>
+    <string name="CheckBoxPref_Key_Sound">Key_Sound</string>
+    <string name="CheckBoxPref_DefaultValue_Sound">true</string>
+
+    <!-- ######################### -->
+
+    <string name="statu_on">On</string>
+    <string name="statu_off">Off</string>
+
+</resources>

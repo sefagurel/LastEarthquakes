@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:hmkcode="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/savesettings"
+        android:orderInCategory="100"
+        android:title="Save"
+        hmkcode:showAsAction="always"/>
+
+</menu>

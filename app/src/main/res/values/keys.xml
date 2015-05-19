@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Mint_apiKey" translatable="false"> </string>
+    <string name="StartApp_AccountId" translatable="false"> </string>
+    <string name="StartApp_AppId" translatable="false"> </string>
+
+
+</resources>

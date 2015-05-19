@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Last Earthquakes</string>
+    <string name="title_activity">Last Earthquakes</string>
+    <string name="menu_settings">Settings</string>
+    <string name="EarthquakesDetect">Earthquake Detected!</string>
+    <string name="NoConnection">Internet connection was not found!</string>
+    <string name="PleaseWait">Please Wait...</string>
+    <string name="DatasLoading">Loading...</string>
+    <string name="MapCanNotBeDisplayed">Map can not be displayed</string>
+
+
+    <string name="Location">Location</string>
+    <string name="Magnitude">Magnitude</string>
+    <string name="Date">Date</string>
+    <string name="Depth">Depth</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="ChartAxisX">Day</string>
+    <string name="ChartAxisY">Magnitude</string>
+
+
+</resources>
