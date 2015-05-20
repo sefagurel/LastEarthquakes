@@ -4,8 +4,10 @@ Bu uygulama 3 farklı servisten çektiği deprem verileri ile kullanıcıya anl�
 Uygulama open source olarak yayınlanmakta olup başlangıç aşamasındaki developerlara faydalı olacağı düşünülmektedir.
 
 Uygulama Google Play linki : https://play.google.com/store/apps/details?id=com.sefagurel.lastearthquakes
-
+ 
 Uygulama Android Studio ile yazılmış olup res/values/keys.xml dosyası içindeki keyler ile Manifest dosyasındaki Google Maps Key'i eklenmemiştir. Bu bilgileri kendinize göre doldurmanız gerekmektedir.
+
+![alt tag](https://lh3.googleusercontent.com/drj5LFM5hW2_2iAWih0V7KjgAwQUvm1OrTIJviT50AuvWvazJS3LMLK4aJIHkPnBY5D-=h600)
 
 # Neler Öğreneceksiniz
 
@@ -39,3 +41,5 @@ ve daha birçok bilgiyi öğrenebileceksiniz.
 # Not
 
 Eğer faydalı olduğunu düşünüyorsanız yapılan çalışmalara github üzerinden ve google play üzerinden yıldız vererek destek verebilirsiniz. Destek veren tüm arkadaşlar kodları dilediğince kullanabilir. Bol Android'li günler! :) 
+
+
