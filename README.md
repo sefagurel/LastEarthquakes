@@ -1,6 +1,6 @@
 # LastEarthquakes (Son Depremler)
 
-Bu uygulama 3 farklı servisten çektiği deprem verileri ile kullanıcıya anlık olarak deplem bilgilerini ulaştırmayı amaçlamıştır. 
+Bu uygulama 3 farklı servisten çektiği deprem verileri ile kullanıcıya anlık olarak deprem bilgilerini ulaştırmayı amaçlamıştır. 
 Uygulama open source olarak yayınlanmakta olup başlangıç aşamasındaki developerlara faydalı olacağı düşünülmektedir.
 
 Uygulama Google Play linki : https://play.google.com/store/apps/details?id=com.sefagurel.lastearthquakes
